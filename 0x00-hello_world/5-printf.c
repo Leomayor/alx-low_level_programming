@@ -1,7 +1,15 @@
 #include <stdio.h>
 
-int main() {
-    printf("%s, but the outcome is a piece of art,\n", "with proper grammar");
-    return 0;
+/*
+ * main - this is the main function
+ * Return: 0 when successfull
+ */
+
+int main(void)
+
+{
+	printf("with proper grammar, but the outcome is a piece of art,");
+	return (0);
+
 }
 
