@@ -7,7 +7,7 @@
 
 int main(void)
 {
-# stop infine loop
+//stop infine loop
 int i;
 
 printf("Infinite loop incoming :(\n");
